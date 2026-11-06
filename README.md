@@ -41,6 +41,10 @@ node server.js
 
 The server runs on `http://localhost:3000`.
 
+To test the API in a browser, open http://localhost:3000/notes.
+
+The API does not have a homepage, so opening http://localhost:3000 will display "Cannot GET /".
+
 ## API Routes
 
 I used five routes for the CRUD operations.
